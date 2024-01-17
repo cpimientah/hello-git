@@ -1,3 +1,3 @@
 <?php
-echo "nuevo archivo";
+echo "nuevo archivo v2";
 ?>
