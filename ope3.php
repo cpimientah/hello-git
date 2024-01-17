@@ -1,5 +1,5 @@
 //comentarios aqui por favor
 <?php
-$var=
+$var="22";
 
  ?>
