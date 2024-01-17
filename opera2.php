@@ -1,3 +1,3 @@
 <?php
-echo "nuevo archivo version 3 Login";
+echo "nuevo archivo v3";
 ?>
